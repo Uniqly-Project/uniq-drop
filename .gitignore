@@ -1,0 +1,14 @@
+node_modules
+.vscode
+package-lock.json
+bin
+build
+contracts/artifacts
+contracts/ERC721/artifacts
+contracts/VRF/artifacts
+
+secret.json
+keys.json
+
+solc-input-uniqdrop.json
+.secret
